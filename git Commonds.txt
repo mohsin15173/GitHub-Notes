@@ -1,0 +1,17 @@
+git clone = to clone a remote repository into your local repository
+git branch = to create a branch
+git checkout= to switch from one branch to other
+git fetch = it shows you if you have done any commits in your remote repository
+git merge = it brings those commits into your local repository 
+git pull = it directly brings all the changes in your remote repository to your local repository.
+git pull = git fetch + git merge
+git rebase = if i have 3 files in master and 3 files in feature and i want to use rebase what it does is the feature branch
+             connects to the master branch from the masters last file or commit my last file here is a3 from a3 branch feature will
+             start that is master branch looks liks a1 a2 a3 b1 b2 b3 
+as u have seen in the class when i rebased it all files of feature became base of master.
+
+when i rebased in local repo what happened is all the files we created in feature were in master that is they were right below the 
+files of master which is called rebasing of the master branch
+
+AWS cloud platform  it has various operating systems like i can take mac ,linux,unbuntu ,debian  
+Create a free-tier aws account .
